@@ -67,17 +67,23 @@ export default function Home() {
           <CardContent>
             <div className="flex flex-row items-center justify-center gap-2">
               <Button className="hover:bg-white hover:text-black">
-                <Link href="https://discord.com/users/695594556942712872">
+                <Link
+                  href="https://discord.com/users/695594556942712872"
+                  target="_blank"
+                >
                   <FaDiscord />
                 </Link>
               </Button>
               <Button className="hover:bg-white hover:text-black">
-                <Link href="https://github.com/1uc44s">
+                <Link href="https://github.com/1uc44s" target="_blank">
                   <FaGithub />
                 </Link>
               </Button>
               <Button className="hover:bg-white hover:text-black">
-                <Link href="https://open.spotify.com/user/316crq43ubf5qf7767sv66ca7c44?si=c83e037e26ca4166">
+                <Link
+                  href="https://open.spotify.com/user/316crq43ubf5qf7767sv66ca7c44?si=c83e037e26ca4166"
+                  target="_blank"
+                >
                   <FaSpotify />
                 </Link>
               </Button>
