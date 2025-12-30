@@ -18,7 +18,6 @@ import { SiShadcnui } from "react-icons/si";
 import { FaLocationDot } from "react-icons/fa6";
 import { IoLogoJavascript } from "react-icons/io";
 import SpotifyEmbed from "@/components/ui/MusicPlayer";
-import DiscordPresence from "@/components/ui/TechStackProgress";
 import LiveClock from "@/components/ui/LiveClock";
 import TechStackProgress from "@/components/ui/TechStackProgress";
 import LearningNow from "@/components/ui/LearningNow";
