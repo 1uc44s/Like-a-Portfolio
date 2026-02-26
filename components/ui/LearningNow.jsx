@@ -6,11 +6,10 @@ export default function LearningNow() {
       </h3>
       <ul className="space-y-2 text-sm text-gray-300">
         <li>• React</li>
-        <li>• Next.JS</li>
-        <li>• TailwindCSS</li>
+        <li>• Tailwind CSS</li>
         <li>• JavaScript</li>
-        <li>• NodeJS (later)</li>
-        <li>• Animations (Anime JS)</li>
+        <li>• NodeJS</li>
+        <li>• Express JS </li>
       </ul>
     </div>
   );

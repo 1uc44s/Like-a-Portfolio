@@ -1,12 +1,11 @@
 "use client";
 
 const skills = [
-  { name: "React", level: 25 },
-  { name: "Next.JS", level: 25 },
-  { name: "Tailwind CSS", level: 45 },
-  { name: "JavaScript", level: 45 },
-  { name: "Node JS", level: 0 },
-  { name: "Animations (Anime JS)", level: 10 },
+  { name: "React", level: 85 },
+  { name: "Tailwind CSS", level: 50 },
+  { name: "JavaScript", level: 70 },
+  { name: "Node JS", level: 30 },
+  { name: "Express JS", level: 30 }
 ];
 
 export default function TechStackProgress() {
